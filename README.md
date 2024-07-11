@@ -21,7 +21,6 @@
 <div align="left">
     <a href="https://www.facebook.com/LeVDuan0308/" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="33"></a>
     <a href="https://github.com/LeVDuan/" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="33"></a>
-    <a href="mailto:duan.lv0308@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="33"></a>
 </div>
 <br>
 <div>
