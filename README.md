@@ -12,7 +12,6 @@
     </div>
     <div>
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="33" />
-        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=F7DF1E" alt="Markdown" height="33" />
     </div>
 </div>
 <br>
