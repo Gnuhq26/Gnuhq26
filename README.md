@@ -19,8 +19,7 @@
 <div align="left">
     <a href="https://www.facebook.com/toilahung2684/" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="33"></a>
     <a href="https://github.com/Gnuhq26/" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="33"></a>
-    <a href="mailto:gnuhq26@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gnuhq26" /></a>
+    
 </div>
 <br>
 <div>
