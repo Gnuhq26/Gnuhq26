@@ -1,6 +1,7 @@
 # Hi👋, I'm Gunhq26!
 👩🏻‍🎓 Studying IT at Hanoi University of Science and Technology, Vietnam <br/>
 <h1 align="left"> Tech Stack 🖥</h1>
+<img align="right" height="300" src="https://www.bing.com/th/id/OGC.e1f3413bf5036045713341394f617225?pid=1.7&rurl=https%3a%2f%2fgranroyalleigarape.com.br%2fwp-content%2fuploads%2f2021%2f05%2fprogrammer.gif&ehk=wecvkaDrxTVcS4BAWL3ChttAQHghR%2flmgl3kmZvrHSw%3d">
 <br>
 <div align="left">
     <div>
