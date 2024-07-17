@@ -32,6 +32,8 @@
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Gnuhq26" /></a>
     <a href="https://www.instagram.com/gnuhq.26/" target="blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="gnuhq.26" /></a>
+      <a href="mailto:gnuhq26@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     
 </div>
 <h1 align="left">GitHub Stats 🔥</h1>
