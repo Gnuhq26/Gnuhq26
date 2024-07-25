@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" height="33" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" height="33" />
         <img src="https://img.shields.io/badge/vscode-%2300599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="VisualStudioCode" height="33" />
-        
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" height="33" />
     </div>
 </div>
 <br>
