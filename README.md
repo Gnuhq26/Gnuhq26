@@ -25,7 +25,7 @@
     </div>
 </div>
 <br>
-<h1 align="left">Contact me 📧</h1>
+<h1 align="left">Contact me 📩</h1>
 <br>
 <div align="left">
     <a href="https://www.facebook.com/toilahung2684/" target="blank">
