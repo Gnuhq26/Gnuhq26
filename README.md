@@ -1,7 +1,7 @@
 # Hi👋, I'm Gunhq26!
 👩🏻‍🎓 Studying IT at Hanoi University of Science and Technology, Vietnam <br/>
-<h1 align="left">Tech Stack 🤖
-<img align="right" height="25%" width="30%" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" style="position: relative; top: -50px;">
+<h1 align="left">Tech Stack 🤖 </h1>
+<img align="right" height="25%" width="30%" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" style="position: relative; top: -50px;" />
 <br>
 <div align="left">
     <div>
