@@ -1,27 +1,35 @@
 # Hi👋, I'm Gunhq26!
-🤷‍♂ Studying IT at Hanoi University of Science and Technology, Vietnam <br/>
-<h1 align="left">Tech Stack 🧑‍💻</h1>
+🤷‍♂ I'm from Hai Phong and studying CS at Hanoi University of Science and Technology, Ha Noi, Vietnam
+<h2 align="left">🤖 Programming Languages </h2>
 <img align="right" height="25%" width="30%" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" style="position: relative; top: -50px;" />
-<br>
 <div align="left">
     <div>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="33" />
         <img src="https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=MIPS&logoColor=white" alt="Assembly" height="33"/>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="33"/>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="33" />
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" height="33"/>
     </div>
     <div>
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" height="33"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="33" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="33" />
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height ="33" />
     </div>
+</div>
+
+<br>
+<h2 align="left">🧱🛠️ Frameworks and Libraries</h2>
+<div align="left">
     <div>
         <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" height="33" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" height="33" />
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="ExpressJs" height="33"/>
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height = "33" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" height="33" />
     </div>
+</div>
+<br>
+<h2 align="left">📊🗄️ Databases</h2>
+<div align="left">
     <div>
         <img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongdoDB" height="33" /> 
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" height="33" />
@@ -29,14 +37,21 @@
     </div>
 </div>
 <br>
-<h1 align="left">Contact me 📩</h1>
+<h2 align="left">🔀🛠️ Version Controll & Tools</h2>
+<div align="left">
+    <div>
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="33" />
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" height="33" />
+        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="33" />
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="33"/>
+    </div>
+</div>
 <br>
+<h2 align="left">Contact me 📩</h2>
 <div align="left">
     <a href="https://www.facebook.com/toilahung2684/" target="blank">
   <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Bui Quang Hung" /></a>
     <a href="https://github.com/Gnuhq26" target="blank">
-  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Gnuhq26" /></a>
-    <a href="https://www.instagram.com/gnuhq.26/" target="blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="gnuhq.26" /></a>
       <a href="mailto:gnuhq26@gmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
