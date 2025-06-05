@@ -62,8 +62,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gnuhq26&show_icons=true&locale=en" alt="GitHub Stats" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gnuhq26&" alt="My Current Streak Stats" width="47.5%">
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gnuhq26&show_icons=true&locale=en&layout=compact" altalt="My GitHub Language Stats"
-        width="50%">
-</p>
+
 
