@@ -63,7 +63,7 @@
 </div>
 <h1 align="left">GitHub Stats 🔥</h1>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gnuhq26&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false" width="49.75%" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gnuhq26&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false" width="49.75%" height="180px"/>
     <img src="https://nirzak-streak-stats.vercel.app/?user=Gnuhq26&theme=solarized-light&hide_border=false" width="49.75%" />
 </p>
 
