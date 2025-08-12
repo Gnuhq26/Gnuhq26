@@ -63,8 +63,8 @@
 </div>
 <h1 align="left">GitHub Stats 🔥</h1>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gnuhq26&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" height="200px" style="vertical-align:top;" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Gnuhq26&theme=onedark&hide_border=false" height="200px" style="vertical-align:top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Gnuhq26&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Gnuhq26&theme=onedark&hide_border=false" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnuhq26&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="" width="45%" />
