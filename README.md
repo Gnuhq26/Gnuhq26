@@ -1,4 +1,4 @@
-# Hi👋, I'm Gunhq26!
+# Hi👋, I'm Gnuhq26!
 🤷‍♂ I'm from Hai Phong and studying CS at Hanoi University of Science and Technology, Ha Noi, Vietnam
 <h2 align="left">🤖 Programming Languages </h2>
 <img align="right" height="300%" width="30%" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" style="position: relative; top: -50px;" />
