@@ -13,10 +13,10 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="33" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="33" />
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height ="33" />
+        <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="Latex" height="33" />
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="33" />
     </div>
 </div>
-
-<br>
 <h2 align="left">🧱🛠️ Frameworks and Libraries</h2>
 <div align="left">
     <div>
@@ -26,8 +26,13 @@
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height = "33" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" height="33" />
     </div>
+    <div>
+        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="33" />
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="33" />
+        <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" height="33" />
+        <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX" height="33" />
+    </div>
 </div>
-<br>
 <h2 align="left">📊🗄️ Databases</h2>
 <div align="left">
     <div>
@@ -36,31 +41,33 @@
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="33"/>
     </div>
 </div>
-<br>
 <h2 align="left">🔀🛠️ Version Controll & Tools</h2>
 <div align="left">
     <div>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="33" />
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" height="33" />
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="33" />
-        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="33"/>
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="33" />
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="33" />
     </div>
 </div>
-<br>
-<h2 align="left">Contact me 📩</h2>
+<h2 align="left">Contact me 🤝</h2>
 <div align="left">
     <a href="https://www.facebook.com/toilahung2684/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Bui Quang Hung" /></a>
+  <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Bui Quang Hung" /></a>
     <a href="https://github.com/Gnuhq26" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="gnuhq.26" /></a>
+  <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="gnuhq.26" /></a>
       <a href="mailto:gnuhq26@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="gnuhq26@gmail.com" /></a>
     
 </div>
 <h1 align="left">GitHub Stats 🔥</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gnuhq26&show_icons=true&locale=en" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gnuhq26&" alt="My Current Streak Stats" width="47.5%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gnuhq26&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" height="200px" style="vertical-align:top;" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Gnuhq26&theme=onedark&hide_border=false" height="200px" style="vertical-align:top;" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnuhq26&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="" width="45%" />
 </p>
 
 
